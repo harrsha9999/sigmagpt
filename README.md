@@ -3,7 +3,7 @@
 A full-stack conversational AI app with multi-turn context, built to learn
 cost-efficient LLM integration (bounded context + response caching).
 
-🔗 **Live demo:** https://sigmagpt-harsha.vercel.app
+🔗 **Live demo:** https://sigmagpt-harsha.onrender.com
 💻 **Stack:** React · Node.js · Express · OpenAI API · MongoDB
 
 ---
